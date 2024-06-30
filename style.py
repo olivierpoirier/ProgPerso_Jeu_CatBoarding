@@ -1,3 +1,4 @@
 COLOR_BG = "#C9D5DC"
+COLOR_BORDER = "#A9C8DC"
 
 FONT = ("Impact", 10)

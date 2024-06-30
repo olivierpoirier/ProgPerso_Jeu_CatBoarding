@@ -1,6 +1,5 @@
 from tkinter import Tk
 import constants
-from keyboardManagement import checkIfKeyboardUsed
 import threading
 from keyboardManagement import threadKeyboardcheck
 
